@@ -43,7 +43,3 @@
 ![Additional Skills](https://img.shields.io/badge/Additional_Skills-PSD%20to%20HTML%20(Pixel--perfect%20implementation)%20|%20UX%20design%20|%20Web%20fundamentals%20|%20Scalability%20|%20Server--side%20software%20understanding-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-addweb&show_icons=true&locale=en&layout=compact" alt="sachin-addweb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachin-addweb&show_icons=true&locale=en" alt="sachin-addweb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-addweb&" alt="sachin-addweb" /></p>
