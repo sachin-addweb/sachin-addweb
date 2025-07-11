@@ -41,5 +41,3 @@
 ![UI Components](https://img.shields.io/badge/UI_Components-Building%20reusable%20components%20and%20libraries%20for%20future%20use-42B883?style=for-the-badge&logo=vue.js&logoColor=white)  
 ![Publishing](https://img.shields.io/badge/Publishing-Adobe%20PageMaker%20|%20UX%20Design-FF3366?style=for-the-badge&logo=adobe&logoColor=white)  
 ![Additional Skills](https://img.shields.io/badge/Additional_Skills-PSD%20to%20HTML%20(Pixel--perfect%20implementation)%20|%20UX%20design%20|%20Web%20fundamentals%20|%20Scalability%20|%20Server--side%20software%20understanding-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sachin-addweb&show_icons=true&locale=en&layout=compact" alt="sachin-addweb" /></p>
